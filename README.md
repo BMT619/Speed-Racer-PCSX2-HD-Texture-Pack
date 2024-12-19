@@ -1,6 +1,6 @@
 # Speed-Racer-PCSX2-HD-Texture-Pack
 
-This zip file is a texture pack release for the Speed Racer Videogame on PS2, using PCSX2!
+This zip file is a texture pack release for the Speed Racer Videogame on PS2, using PCSX2 and Upscayl!
 
 
 # Loading Replacement Textures on PCSX2
